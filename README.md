@@ -19,7 +19,5 @@ Instalar o .NET SDK (versão recomendada: 8.0 e 9.0)
 2. Clonar o repositório
 git clone https://github.com/RafasDev/Sistema-de-Controle-de-Clientes.git
 
-cd seu-projeto
-
-4. Compilar e executar
-dotnet run
+3. Compilar e executar
+no terminal use: dotnet run
