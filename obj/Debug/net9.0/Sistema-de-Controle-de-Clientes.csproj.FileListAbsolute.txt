@@ -12,3 +12,4 @@ C:\Projetos\Sistema-de-Controle-de-Clientes\obj\Debug\net9.0\refint\Sistema-de-C
 C:\Projetos\Sistema-de-Controle-de-Clientes\obj\Debug\net9.0\Sistema-de-Controle-de-Clientes.pdb
 C:\Projetos\Sistema-de-Controle-de-Clientes\obj\Debug\net9.0\Sistema-de-Controle-de-Clientes.genruntimeconfig.cache
 C:\Projetos\Sistema-de-Controle-de-Clientes\obj\Debug\net9.0\ref\Sistema-de-Controle-de-Clientes.dll
+C:\Projetos\Sistema-de-Controle-de-Clientes\obj\Debug\net9.0\Sistema-de-Controle-de-Clientes.sourcelink.json
